@@ -4,6 +4,9 @@
 
 
 ### HW Template
+
+#### HW 1 Deadline: 09/16(Wed) 11:59pm
+
 ```
 ** 1. fhs example
 
