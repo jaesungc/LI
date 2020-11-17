@@ -14,11 +14,11 @@ res %>%
 # Element
 pattern <- ""
 res %>% 
-  html_nodes() %>% 
+  html_nodes(pattern) %>% 
   html_text()
 
 # Attribute
 pattern <- ""
 res %>% 
-  html_nodes() %>% 
+  html_nodes(pattern) %>% 
   html_attr("href")
